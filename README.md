@@ -21,5 +21,6 @@ The tutorial walks through using simple features and utilizing [MapKit](https://
 - Creating a watchOS App
 - Creating a macOS App
 
-<!--https://developer.apple.com/tutorials/swiftui linke to tutorial -->
+___
 
+*Note: The project follows the tutorial until it integrates watchOS. The app runs in the simulator as it should by that point in the project. Previously, I ran into complications attempting to follow the tutorial as stated in the documentation, instructing to create an extension when the means to do so in Xcode itself have changed somewhat, and the completed project section files reflect the 'older' method. Regardless, it works without errors in its current state.*
